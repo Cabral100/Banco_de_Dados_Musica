@@ -20,8 +20,6 @@ Este projeto tem como objetivo o desenvolvimento de um sistema de banco de dados
 - Execuções de faixas (histórico de reprodução)  
 - Avaliações feitas pelos usuários  
 
-Além disso, o projeto contempla a geração automatizada de dados fictícios, verificação de integridade e consultas SQL para simular o funcionamento real da plataforma.
-
 ---
 
 ## Introdução
