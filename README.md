@@ -1,4 +1,4 @@
-# Projeto 2 - Banco de Dados para um Sistema de Streaming de Música 🎵
+# Projeto 2 - Banco de Dados para um Sistema de Streaming de Música 
 
 ## Integrantes do grupo
 - **Guilherme Morais Escudeiro** - RA: 24.123.005-1
